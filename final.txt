@@ -1,0 +1,5 @@
+Printing Linked List
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->Battle->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg.->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->of->on->Pennsylvania,->President->speech->the->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Printing Middle
+in

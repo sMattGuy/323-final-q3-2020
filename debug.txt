@@ -1,0 +1,232 @@
+Inserting data:The
+Printing list:
+dummy->The->NULL
+~~~~~~~~~~~~~
+Inserting data:Gettysburg
+Printing list:
+dummy->Gettysburg->The->NULL
+~~~~~~~~~~~~~
+Inserting data:Address
+Printing list:
+dummy->Address->Gettysburg->The->NULL
+~~~~~~~~~~~~~
+Inserting data:is
+Printing list:
+dummy->Address->Gettysburg->is->The->NULL
+~~~~~~~~~~~~~
+Inserting data:a
+Printing list:
+dummy->a->Address->Gettysburg->is->The->NULL
+~~~~~~~~~~~~~
+Inserting data:speech
+Printing list:
+dummy->a->Address->Gettysburg->is->speech->The->NULL
+~~~~~~~~~~~~~
+Inserting data:by
+Printing list:
+dummy->a->Address->by->Gettysburg->is->speech->The->NULL
+~~~~~~~~~~~~~
+Inserting data:U.S.
+Printing list:
+dummy->a->Address->by->Gettysburg->is->speech->The->U.S.->NULL
+~~~~~~~~~~~~~
+Inserting data:President
+Printing list:
+dummy->a->Address->by->Gettysburg->is->President->speech->The->U.S.->NULL
+~~~~~~~~~~~~~
+Inserting data:Abraham
+Printing list:
+dummy->a->Abraham->Address->by->Gettysburg->is->President->speech->The->U.S.->NULL
+~~~~~~~~~~~~~
+Inserting data:Lincoln
+Printing list:
+dummy->a->Abraham->Address->by->Gettysburg->is->Lincoln->President->speech->The->U.S.->NULL
+~~~~~~~~~~~~~
+Inserting data:It
+Printing list:
+dummy->a->Abraham->Address->by->Gettysburg->is->It->Lincoln->President->speech->The->U.S.->NULL
+~~~~~~~~~~~~~
+Inserting data:was
+Printing list:
+dummy->a->Abraham->Address->by->Gettysburg->is->It->Lincoln->President->speech->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:delivered
+Printing list:
+dummy->a->Abraham->Address->by->delivered->Gettysburg->is->It->Lincoln->President->speech->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:by
+Printing list:
+dummy->a->Abraham->Address->by->by->delivered->Gettysburg->is->It->Lincoln->President->speech->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Lincoln
+Printing list:
+dummy->a->Abraham->Address->by->by->delivered->Gettysburg->is->It->Lincoln->Lincoln->President->speech->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:during
+Printing list:
+dummy->a->Abraham->Address->by->by->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->President->speech->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->a->Abraham->Address->by->by->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->President->speech->the->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:American
+Printing list:
+dummy->a->Abraham->Address->American->by->by->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->President->speech->the->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Civil
+Printing list:
+dummy->a->Abraham->Address->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->President->speech->the->The->U.S.->was->NULL
+~~~~~~~~~~~~~
+Inserting data:War
+Printing list:
+dummy->a->Abraham->Address->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->President->speech->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:on
+Printing list:
+dummy->a->Abraham->Address->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->on->President->speech->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->a->Abraham->Address->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->on->President->speech->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:afternoon
+Printing list:
+dummy->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->on->President->speech->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:of
+Printing list:
+dummy->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->of->on->President->speech->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Thursday,
+Printing list:
+dummy->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->of->on->President->speech->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:November
+Printing list:
+dummy->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:19,
+Printing list:
+dummy->19,->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:1863,
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:at
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:dedication
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->dedication->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->on->President->speech->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:of
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->dedication->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->of->on->President->speech->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->dedication->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->November->of->of->on->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:National
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Civil->dedication->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->National->November->of->of->on->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Cemetery
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Cemetery->Civil->dedication->delivered->during->Gettysburg->is->It->Lincoln->Lincoln->National->November->of->of->on->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:in
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Cemetery->Civil->dedication->delivered->during->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Gettysburg,
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Cemetery->Civil->dedication->delivered->during->Gettysburg,->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Pennsylvania,
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Cemetery->Civil->dedication->delivered->during->Gettysburg,->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:four
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:and
+Printing list:
+dummy->1863,->19,->a->Abraham->Address->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:a
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->in->is->It->Lincoln->Lincoln->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:half
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:months
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:after
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->the->Thursday,->the->the->The->U.S.->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Union
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:armies
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:defeated
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:those
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->on->Pennsylvania,->President->speech->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:of
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Confederacy
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:at
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:the
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->the->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Battle
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->Battle->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->on->Pennsylvania,->President->speech->the->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:of
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->Battle->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->of->on->Pennsylvania,->President->speech->the->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
+Inserting data:Gettysburg.
+Printing list:
+dummy->1863,->19,->a->a->Abraham->Address->after->afternoon->American->and->armies->at->at->Battle->by->by->Cemetery->Civil->Confederacy->defeated->dedication->delivered->during->four->Gettysburg.->Gettysburg,->Gettysburg->half->in->is->It->Lincoln->Lincoln->months->National->November->of->of->of->of->on->Pennsylvania,->President->speech->the->the->those->the->the->the->Thursday,->the->the->The->U.S.->Union->War->was->NULL
+~~~~~~~~~~~~~
